@@ -1,6 +1,6 @@
 # nexplay-sample
 
-Internship project using materializecss
+Mockup project using materializecss
 
 ## Built with
 
